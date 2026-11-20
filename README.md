@@ -29,5 +29,7 @@ Aspiring **Data Analyst** with a strong foundation in **Python, SQL, Pandas, Pow
 
 ### 📈 GitHub Stats
 
+### 📈 GitHub Stats
+
 ![Kanav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanav3&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanav3&layout=compact&theme=tokyonight&exclude_repo=brewvoyage-coffeeshop)
